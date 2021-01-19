@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../Account/include/account.h
+string
+-
+
+D:/Cmake/GOOGLETEST/AccountTest/Account/src/account.cpp
+account.h
+D:/Cmake/GOOGLETEST/AccountTest/Account/src/account.h
+stdexcept
+-
+

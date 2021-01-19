@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../rangeChecker/include/checker.h
+
+D:/Cmake/GOOGLETEST/RangeValidator/rangeChecker/src/checker.cpp
+checker.h
+D:/Cmake/GOOGLETEST/RangeValidator/rangeChecker/src/checker.h
+stdexcept
+-
+

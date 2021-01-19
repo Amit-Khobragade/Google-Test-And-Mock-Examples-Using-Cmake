@@ -1,0 +1,4 @@
+add_library(dbconnection
+src/IDatabaseConnection.cpp)
+
+target_include_directories(dbconnection PUBLIC include)

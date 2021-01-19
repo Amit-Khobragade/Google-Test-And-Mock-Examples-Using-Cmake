@@ -1,0 +1,2 @@
+C:\sde\mingw-w64\mingw64\bin\ar.exe qc libchecker.a CMakeFiles/checker.dir/src/checker.cpp.obj
+C:\sde\mingw-w64\mingw64\bin\ranlib.exe libchecker.a

@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../Employee.hpp
+string
+-
+
+../Employer/include/EmployeeManager.hpp
+../../Employee.hpp
+../Employee.hpp
+IDatabaseConnection.hpp
+../Employer/include/IDatabaseConnection.hpp
+map
+-
+vector
+-
+string
+-
+
+../IDatabaseConnection/include/IDatabaseConnection.hpp
+string
+-
+vector
+-
+../../Employee.hpp
+../Employee.hpp
+
+D:/Cmake/GOOGLEMOCKS/TestingDatabase/Employer/src/EmployeeManager.cpp
+EmployeeManager.hpp
+D:/Cmake/GOOGLEMOCKS/TestingDatabase/Employer/src/EmployeeManager.hpp
+map
+-
+

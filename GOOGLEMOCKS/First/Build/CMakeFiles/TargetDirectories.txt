@@ -1,0 +1,8 @@
+D:/Cmake/GOOGLEMOCKS/First/Build/CMakeFiles/testrunner.dir
+D:/Cmake/GOOGLEMOCKS/First/Build/CMakeFiles/rebuild_cache.dir
+D:/Cmake/GOOGLEMOCKS/First/Build/CMakeFiles/test.dir
+D:/Cmake/GOOGLEMOCKS/First/Build/CMakeFiles/edit_cache.dir
+D:/Cmake/GOOGLEMOCKS/First/Build/FirstTests/CMakeFiles/firstTest.dir
+D:/Cmake/GOOGLEMOCKS/First/Build/FirstTests/CMakeFiles/rebuild_cache.dir
+D:/Cmake/GOOGLEMOCKS/First/Build/FirstTests/CMakeFiles/test.dir
+D:/Cmake/GOOGLEMOCKS/First/Build/FirstTests/CMakeFiles/edit_cache.dir

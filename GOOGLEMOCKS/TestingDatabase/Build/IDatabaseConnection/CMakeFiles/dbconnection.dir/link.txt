@@ -1,0 +1,2 @@
+C:\sde\mingw-w64\mingw64\bin\ar.exe qc libdbconnection.a CMakeFiles/dbconnection.dir/src/IDatabaseConnection.cpp.obj
+C:\sde\mingw-w64\mingw64\bin\ranlib.exe libdbconnection.a

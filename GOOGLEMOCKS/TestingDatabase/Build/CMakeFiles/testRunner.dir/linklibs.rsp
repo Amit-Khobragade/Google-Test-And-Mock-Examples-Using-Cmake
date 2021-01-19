@@ -1,0 +1,1 @@
+ "C:/Program Files (x86)/googletest-distribution/lib/libgtest.a" "C:/Program Files (x86)/googletest-distribution/lib/libgmock.a" "C:/Program Files (x86)/googletest-distribution/lib/libgmock_main.a" -lpthread Employer/libemployer.a IDatabaseConnection/libdbconnection.a -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 

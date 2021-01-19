@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../Employee.hpp
+string
+-
+
+../IDatabaseConnection/include/IDatabaseConnection.hpp
+string
+-
+vector
+-
+../../Employee.hpp
+../Employee.hpp
+
+D:/Cmake/GOOGLEMOCKS/TestingDatabase/IDatabaseConnection/src/IDatabaseConnection.cpp
+IDatabaseConnection.hpp
+D:/Cmake/GOOGLEMOCKS/TestingDatabase/IDatabaseConnection/src/IDatabaseConnection.hpp
+limits
+-
+iostream
+-
+

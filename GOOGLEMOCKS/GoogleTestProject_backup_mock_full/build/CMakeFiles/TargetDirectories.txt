@@ -1,0 +1,7 @@
+D:/Cmake/GOOGLEMOCKS/GoogleTestProject_backup_mock_full/build/CMakeFiles/testRunner.dir
+D:/Cmake/GOOGLEMOCKS/GoogleTestProject_backup_mock_full/build/CMakeFiles/mainApp.dir
+D:/Cmake/GOOGLEMOCKS/GoogleTestProject_backup_mock_full/build/CMakeFiles/employeeManagerLibrary.dir
+D:/Cmake/GOOGLEMOCKS/GoogleTestProject_backup_mock_full/build/CMakeFiles/databaseConnectionLibrary.dir
+D:/Cmake/GOOGLEMOCKS/GoogleTestProject_backup_mock_full/build/CMakeFiles/rebuild_cache.dir
+D:/Cmake/GOOGLEMOCKS/GoogleTestProject_backup_mock_full/build/CMakeFiles/test.dir
+D:/Cmake/GOOGLEMOCKS/GoogleTestProject_backup_mock_full/build/CMakeFiles/edit_cache.dir

@@ -1,0 +1,2 @@
+C:\sde\mingw-w64\mingw64\bin\ar.exe qc libfirstTest.a CMakeFiles/firstTest.dir/src/testClass_1.cpp.obj
+C:\sde\mingw-w64\mingw64\bin\ranlib.exe libfirstTest.a

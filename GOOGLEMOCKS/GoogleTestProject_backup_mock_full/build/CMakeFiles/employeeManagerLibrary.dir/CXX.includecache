@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Cmake/GOOGLEMOCKS/GoogleTestProject_backup_mock_full/Employee.hpp
+string
+-
+
+D:/Cmake/GOOGLEMOCKS/GoogleTestProject_backup_mock_full/EmployeeManager.cpp
+EmployeeManager.hpp
+D:/Cmake/GOOGLEMOCKS/GoogleTestProject_backup_mock_full/EmployeeManager.hpp
+map
+-
+
+D:/Cmake/GOOGLEMOCKS/GoogleTestProject_backup_mock_full/EmployeeManager.hpp
+Employee.hpp
+D:/Cmake/GOOGLEMOCKS/GoogleTestProject_backup_mock_full/Employee.hpp
+IDatabaseConnection.hpp
+D:/Cmake/GOOGLEMOCKS/GoogleTestProject_backup_mock_full/IDatabaseConnection.hpp
+map
+-
+vector
+-
+string
+-
+
+D:/Cmake/GOOGLEMOCKS/GoogleTestProject_backup_mock_full/IDatabaseConnection.hpp
+string
+-
+vector
+-
+Employee.hpp
+D:/Cmake/GOOGLEMOCKS/GoogleTestProject_backup_mock_full/Employee.hpp
+

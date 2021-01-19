@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../FirstTests/include/testClass_1.h
+
+D:/Cmake/GOOGLEMOCKS/First/FirstTests/src/testClass_1.cpp
+testClass_1.h
+D:/Cmake/GOOGLEMOCKS/First/FirstTests/src/testClass_1.h
+iostream
+-
+

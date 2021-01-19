@@ -1,0 +1,1 @@
+ FirstTests/libfirstTest.a "C:/Program Files (x86)/googletest-distribution/lib/libgtest.a" -lpthread "C:/Program Files (x86)/googletest-distribution/lib/libgmock.a" "C:/Program Files (x86)/googletest-distribution/lib/libgmock_main.a" -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 
